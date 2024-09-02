@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on Backend development
-- 📫 How to reach me :My email-ambatiteja450@gmail.com
+- 📫 How to reach me :My email:   ambatiteja450@gmail.com
   
 
 <!---
