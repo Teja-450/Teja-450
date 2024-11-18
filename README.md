@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teja-450
-- 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning Computer science
+- 👀 I’m interested in Developing new Ideas and Tech.
+- 🌱 I’m currently pursuing Engineering in CS.
 - 💞️ I’m looking to collaborate on Backend development
 - 📫 How to reach me :My email:   ambatiteja450@gmail.com
   
